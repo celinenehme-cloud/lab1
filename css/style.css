@@ -1,3 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
 h1 {
     background-color: rgb(217, 179, 240);
+}
+
+.card {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+@media (min-width: 768px) {
+    .card {
+        display: inline-block;
+        width: 30%;
+        margin-right: 3%;
+        vertical-align: top;
+    }
+
+
+
 }
