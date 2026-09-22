@@ -4,9 +4,15 @@
     box-sizing: border-box;
 }
 
-h1 {
-    background-color: rgb(217, 179, 240);
+header {
+    width: 100%;
+    padding: 20px;
+    background-color: lightpink;
+    text-align: center;
 }
+
+
+
 
 .card {
     width: 100%;
