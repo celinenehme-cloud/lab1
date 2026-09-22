@@ -7,10 +7,15 @@
 header {
     width: 100%;
     padding: 20px;
-    background-color: lightpink;
+    background-color: rgb(207, 191, 240);
     text-align: center;
-    color: mediumpurple;
 }
+
+h1{
+    font-size: 40px;
+    color: rgb(235, 137, 151);
+}
+
 
 
 
